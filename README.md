@@ -35,10 +35,3 @@
 2. **Analyze**: The system processes the file to extract a title, objective, and participant list.
 3. **Plan**: Review the **Agenda Timeline** to see the suggested breakdown of time and topics.
 4. **Action**: Use the built-in tools to finalize and export your meeting plan.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-*Precision Meeting Engineering.*
